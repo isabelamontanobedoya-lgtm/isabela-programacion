@@ -44,7 +44,7 @@ Un video recomendado:
 
 ## 🖼️ Imagen
 
-![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg/800px-Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
+![Imagen de ejemplo](<<https://www.google.com/imgres?q=monalisa&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F73%2FLeonardo_da_Vinci_-_Mona_Lisa_%2528Louvre%252C_Paris%2529.jpg%2F960px-Leonardo_da_Vinci_-_Mona_Lisa_%2528Louvre%252C_Paris%2529.jpg&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_Gioconda&docid=odZaox53rMxIzM&tbnid=GMSRoQomuWk7KM&vet=12ahUKEwjJj9-8neSVAxXVfjABHSaeEeUQnPAOegQIOhAA..i&w=960&h=1426&hcb=2&ved=2ahUKEwjJj9-8neSVAxXVfjABHSaeEeUQnPAOegQIOhAA>>)
 
 
 ## 🌈 Emojis con intención
